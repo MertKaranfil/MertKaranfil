@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Karanfiloğlu</h1>
-<h3 align="center">Bilişim Teknolojileri öğrencisi ve Teknolojiye karşı meraklı, sürekli öğrenmeye açık ve yeniliklere odaklıyım.</h3>
+<h3 align="center">Bilişim Teknolojileri öğrencisi Teknolojiye karşı meraklı, sürekli öğrenmeye açık ve yeniliklere odaklıyım.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
